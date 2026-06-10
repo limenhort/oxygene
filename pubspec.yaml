@@ -3,7 +3,7 @@
 # ╚════════════════════════════════════╝
 name: oxygene
 description: "A Flutter widget for modeling plants and plant-like structures."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/limenhort/oxygene
 repository: https://github.com/limenhort/oxygene
 
