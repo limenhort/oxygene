@@ -63,7 +63,7 @@ class PipeDrawlerPainter extends CustomPainter {
   final bool fit;
   final bool hideRoot;
 
-  /// множитель радиуса точек-листьев (кончиков). 1.0 — штатный размер.
+  /// Leaf dot radius multiplier. 1.0 = default size.
   final double leafScale;
 
   PipeDrawlerPainter({

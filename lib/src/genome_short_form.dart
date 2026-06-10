@@ -11,7 +11,7 @@ class GenomeShortForm {
 
 
     final cut = trimmed.lastIndexOf(_graftSep);
-    if (cut < 0) return trimmed; // плоский геном — разворачивать нечего
+    if (cut < 0) return trimmed; // flat genome — nothing to expand
 
     final leftStr = trimmed.substring(0, cut);
     final rightStr = trimmed.substring(cut + _graftSep.length);
