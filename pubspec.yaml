@@ -2,7 +2,7 @@
 # ║  Oxygene · инв. № 777               ║
 # ╚════════════════════════════════════╝
 name: oxygene
-description: "Виджет-превью L-system-генома: рисует ветвящееся дерево. Принимает строку-геном, вписывает дерево в холст. Рамку рисует вызывающая сторона."
+description: "A Flutter widget for modeling plants and plant-like structures."
 version: 1.0.0
 homepage: https://github.com/limenhort/oxygene
 repository: https://github.com/limenhort/oxygene

@@ -33,6 +33,8 @@ class PipeDrawler extends StatelessWidget {
 
         return CustomPaint(
           size: size,
+          isComplex: true,
+          willChange: false,
           painter: PipeDrawlerPainter(
             knots: knots,
             selected: activeKnot,
